@@ -1,5 +1,5 @@
 {
-  "base": "https://raw.githubusercontent.com/TechnoTracker777/Singers/main/",
+  "_base": "https://raw.githubusercontent.com/TechnoTracker777/Singers/main/",
   "Singers": [
     "SUPS1.wav",
     "SUPS2.wav",
